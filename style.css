@@ -1,0 +1,207 @@
+
+div.block-container.css-z5fcl4.e1g8pov64 {
+  background: radial-gradient(circle, rgb(238, 242, 243) 15%, rgb(199, 233, 148) 100%)
+  /* background: linear-gradient(to right, red, yellow) !important; */
+}
+.stApp {
+  background-color: transparent !important;
+}
+section.css-uf99v8.e1g8pov65 {
+  background: radial-gradient(circle, rgb(240, 242, 243) 15%, rgb(199, 233, 148) 100%)
+  /* background: linear-gradient(to right, red, yellow) !important; */
+}
+.stApp {
+  background-color: transparent !important;
+}
+
+ div.css-1r6slb0.esravye1 {
+  background: white;
+
+  /* background: linear-gradient(to right, red, yellow) !important; */
+  border-radius: 15px;
+  padding:30px;
+  width: auto;
+  overflow-wrap: break-word;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+/* .stApp {
+  background-color: transparent
+} */
+
+header.css-18ni7ap.e13qjvis2 {
+  background: transparent !important;
+
+}
+.stApp {
+  background-color: transparent !important;
+}
+
+footer.css-164nlkn.e1g8pov61 {
+  background: transparent !important;
+
+}
+.stApp {
+  background-color: transparent !important;
+}
+
+div.css-qcqlej.e1g8pov63 {
+  background: transparent !important;
+
+}
+.stApp {
+  background-color: transparent !important;
+}
+
+
+
+
+div.css-6qob1r.e1akgbir3{
+  background-image: url(https://watermark.lovepik.com/photo/20211208/large/lovepik-farmer-farming-in-wheat-field-picture_501611486.jpg);
+  background-size: cover;
+  background-size: 900%;
+  background-position: center right, left center;
+
+}
+.stApp {
+  background-color: transparent !important;
+}
+
+span.css-10trblm.eqr7zpz0{
+  color: black
+}
+.stApp {
+  background-color: transparent !important;
+}
+
+a:link { color: rgb(10, 80, 62); text-decoration:none}
+a:visited { color: rgb(10, 80, 62);text-decoration:none }
+a:hover { color:rgb(10, 80, 62); text-decoration:none}
+a:active { color: rgb(10, 80, 62); text-decoration:none}
+
+
+div.element-container.css-35rywo.esravye2 {
+  background-size: cover;
+  max-width: 100%;
+}
+
+h2{
+  font-size: 100%;
+}
+h1{
+  font-size: 100%;
+}
+h3{
+  font-size: 70%;
+}
+
+
+div.css-1fjr796.esravye1 {
+  /* background-size: cover;
+  max-width: 100%; */
+  background: rgb(253, 254, 254)  !important;
+
+  /* background: linear-gradient(to right, red, yellow) !important; */
+  border-radius: 15px;
+  padding:30px;
+  width: auto;
+  overflow-wrap: break-word;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}.stApp {
+  background-color: transparent !important;
+}
+
+
+
+div.css-v84420.esravye1{
+
+  background: rgb(253, 254, 254)  !important;
+  border-radius: 15px;
+  padding:5px;
+  width: 20% !important;
+  overflow-wrap: break-word;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
+
+}
+.stApp {
+  background-color: transparent !important;
+}
+
+
+div.css-vhjbnf.esravye1{
+  background: rgb(253, 254, 254)  !important;
+  border-radius: 15px;
+  padding:5px;
+  width: 20% !important;
+  overflow-wrap: break-word;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
+
+}
+.stApp {
+  background-color: transparent !important;
+}
+
+
+
+
+
+.css-1ab9dzl {
+  display: flex;
+  flex-wrap: nowrap !important;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  row-gap: 10rem !important;
+  column-gap: 7rem !important;
+}
+
+
+#tabs-bui52-tab-0 {
+  background-color: transparent !important;
+
+}
+#tabs-bui3-tab-0{
+  background-color: transparent !important;
+
+}
+
+#tabs-bui3-tab-1{
+  background-color: transparent !important;
+
+}
+
+#tabs-bui52-tab-1 {
+  background-color: transparent !important;
+
+}
+
+
+
+/* div.css-1wivap2{
+  horizontal: middle
+  }.stApp {
+    background-color: transparent !important;
+  } */
+
+@media all and (min-width: 50px)   {  body  { font-size:0.1em;  } }
+@media all and (min-width: 100px)  {  body  { font-size:0.2em;  } }
+@media all and (min-width: 200px)  {  body  { font-size:0.4em;  } }
+@media all and (min-width: 300px)  {  body  { font-size:0.6em;  } }
+@media all and (min-width: 400px)  {  body  { font-size:0.8em;  } }
+@media all and (min-width: 500px)  {  body  { font-size:1.0em;  } }
+@media all and (min-width: 600px)  {  body  { font-size:1.2em;  } }
+@media all and (min-width: 700px)  {  body  { font-size:1.4em;  } }
+@media all and (min-width: 800px)  {  body  { font-size:1.6em;  } }
+@media all and (min-width: 900px)  {  body  { font-size:1.8em;  } }
+@media all and (min-width: 1000px) {  body  { font-size:2.0em;  } }
+@media all and (min-width: 1100px) {  body  { font-size:2.2em;  } }
+@media all and (min-width: 1200px) {  body  { font-size:2.4em;  } }
+@media all and (min-width: 1300px) {  body  { font-size:2.6em;  } }
+@media all and (min-width: 1400px) {  body  { font-size:2.8em;  } }
+@media all and (min-width: 1500px) {  body  { font-size:3.0em;  } }
+@media all and (min-width: 1500px) {  body  { font-size:3.2em;  } }
+@media all and (min-width: 1600px) {  body  { font-size:3.4em;  } }
+@media all and (min-width: 1700px) {  body  { font-size:3.6em;  } }
