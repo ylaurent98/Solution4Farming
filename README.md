@@ -4,8 +4,9 @@
 Application to calculate Greenhouse gas emissions for mixed cattle farm based on input data such as feed composition and manure management practices. 
 Calculations follow IPCC 2006 guidelines
 
-- Application also a pollution dashboard module which can be configured to receive real-time data from sensors in farm 
+- Application also a pollution dashboard module which can be configured to receive real-time data from sensors in farm
+- Article providing documentation: https://www.mdpi.com/2077-0472/14/1/78
 
-Application built with python Streamlit
+Built with python Streamlit
 insall requirements with pip
 run streamlit Hompage.py - to start app
